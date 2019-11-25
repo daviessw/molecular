@@ -1,7 +1,7 @@
 # SOPs for the molecular lab
 
-2bRAD 
-Autoclave 101.docx 
+2bRAD  
+Autoclave 101.docx  
 Bacteria culturing
 Extractions
 Gels.docx
